@@ -1,4 +1,4 @@
-![image](https://github.com/sumitsharma-code/ZOOmanji/assets/97402908/a49b3cf1-e80c-40f8-a021-7627100ecddc)![image](https://github.com/sumitsharma-code/ZOOmanji/assets/97402908/df9e02be-cbbb-488b-a295-9a62b1faabe1)# ZOOmanji
+![image](https://github.com/sumitsharma-code/ZOOmanji/assets/97402908/df9e02be-cbbb-488b-a295-9a62b1faabe1)# ZOOmanji
 
 **Problem Statement Number** - CBP40
 **Problem Title** - Virtual Zoo
