@@ -10,5 +10,3 @@
 1. Design and develop a web application.
 2. It'll have details of some highlighted EXISTING and EXTINCT animals. (more animals will be added, as we proceed)
 3. It will help to learn about enviroment irrespective of their location.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fy5cNPWrzB7PObBReyQsfHE%2FUntitled%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3D92yDpVm3buekAJCh-1" allowfullscreen></iframe>
